@@ -4,7 +4,7 @@
   "description": "Simple, lightweight, persistent, framework-agnostic two-way databinding Javascript library",
   "main": "dist/way.js",
   "scripts": {
-    "build": "npm install && grunt",
+    "build": "npm install && grunt uglify",
     "start": "grunt watch"
   },
   "repository": {
